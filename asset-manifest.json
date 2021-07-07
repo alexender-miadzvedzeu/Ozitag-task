@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "//Ozitag-task/static/css/main.3bbf6c69.chunk.css",
-    "main.js": "//Ozitag-task/static/js/main.ac82f4af.chunk.js",
-    "main.js.map": "//Ozitag-task/static/js/main.ac82f4af.chunk.js.map",
-    "runtime-main.js": "//Ozitag-task/static/js/runtime-main.dc25d3da.js",
-    "runtime-main.js.map": "//Ozitag-task/static/js/runtime-main.dc25d3da.js.map",
-    "static/js/2.fc775ed3.chunk.js": "//Ozitag-task/static/js/2.fc775ed3.chunk.js",
-    "static/js/2.fc775ed3.chunk.js.map": "//Ozitag-task/static/js/2.fc775ed3.chunk.js.map",
-    "static/js/3.1f6ecb9b.chunk.js": "//Ozitag-task/static/js/3.1f6ecb9b.chunk.js",
-    "static/js/3.1f6ecb9b.chunk.js.map": "//Ozitag-task/static/js/3.1f6ecb9b.chunk.js.map",
-    "index.html": "//Ozitag-task/index.html",
-    "static/css/main.3bbf6c69.chunk.css.map": "//Ozitag-task/static/css/main.3bbf6c69.chunk.css.map",
-    "static/js/2.fc775ed3.chunk.js.LICENSE.txt": "//Ozitag-task/static/js/2.fc775ed3.chunk.js.LICENSE.txt"
+    "main.css": "/Ozitag-task/static/css/main.3bbf6c69.chunk.css",
+    "main.js": "/Ozitag-task/static/js/main.ac82f4af.chunk.js",
+    "main.js.map": "/Ozitag-task/static/js/main.ac82f4af.chunk.js.map",
+    "runtime-main.js": "/Ozitag-task/static/js/runtime-main.4867be1d.js",
+    "runtime-main.js.map": "/Ozitag-task/static/js/runtime-main.4867be1d.js.map",
+    "static/js/2.fc775ed3.chunk.js": "/Ozitag-task/static/js/2.fc775ed3.chunk.js",
+    "static/js/2.fc775ed3.chunk.js.map": "/Ozitag-task/static/js/2.fc775ed3.chunk.js.map",
+    "static/js/3.1f6ecb9b.chunk.js": "/Ozitag-task/static/js/3.1f6ecb9b.chunk.js",
+    "static/js/3.1f6ecb9b.chunk.js.map": "/Ozitag-task/static/js/3.1f6ecb9b.chunk.js.map",
+    "index.html": "/Ozitag-task/index.html",
+    "static/css/main.3bbf6c69.chunk.css.map": "/Ozitag-task/static/css/main.3bbf6c69.chunk.css.map",
+    "static/js/2.fc775ed3.chunk.js.LICENSE.txt": "/Ozitag-task/static/js/2.fc775ed3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc25d3da.js",
+    "static/js/runtime-main.4867be1d.js",
     "static/js/2.fc775ed3.chunk.js",
     "static/css/main.3bbf6c69.chunk.css",
     "static/js/main.ac82f4af.chunk.js"
